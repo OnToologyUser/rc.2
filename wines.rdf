@@ -22,8 +22,6 @@
         <rdfs:comment xml:lang="en">Title: Wine World
 Author: Gabriel Llera Garcia</rdfs:comment>
     </owl:Ontology>
-    
-
 
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -32,9 +30,6 @@ Author: Gabriel Llera Garcia</rdfs:comment>
     //
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
-
-    
-
 
     <!-- http://purl.org/dc/terms/license -->
 
