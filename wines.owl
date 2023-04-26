@@ -23,6 +23,7 @@
     <Prefix name="terms" IRI="http://purl.org/dc/terms/"/>
     <Prefix name="ontology" IRI="http://dbpedia.org/ontology/"/>
     <Prefix name="property" IRI="http://dbpedia.org/property/"/>
+
     <Annotation>
         <AnnotationProperty abbreviatedIRI="terms:license"/>
         <Literal xml:lang="en">https://creativecommons.org/licenses/by/4.0/legalcode</Literal>
